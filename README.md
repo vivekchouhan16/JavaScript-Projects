@@ -1,0 +1,1 @@
+<h5>Welcome to my collection of JavaScript projects! These projects showcase various features and functionalities of JavaScript, from basic algorithms to advanced web applications. Each project is designed to highlight different aspects of JavaScript programming and frontend development.</h5>

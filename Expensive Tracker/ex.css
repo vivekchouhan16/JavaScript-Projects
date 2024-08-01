@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.container{
+    max-width:600px ;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: azure;
+    box-shadow:0 2px 4px rgba(0,0,0,0.1) ;
+}
+input[type="text"],select,input[type=number],input[type=submit]{
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 8px;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type="submit"]{
+    background-color: darkgreen;
+    color: white;
+    border: none;
+    cursor: pointer;
+
+}
+input[type="submit"]:hover{
+    background-color:rgb(100, 219, 100);
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+
+}
+th,td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+th{
+    background-color: darkgreen;
+    color: whitesmoke;
+}
